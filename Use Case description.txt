@@ -1,0 +1,15 @@
+The functions that are developed in this sprint:
+Function 1: Attendance Management 
+This function caters to the staff where in they can mark their attendance. If there is any error the system will show an error message.
+
+Function 2: Store Management
+This function caters to the staff where in they can access the stores and also add stores. Using this feature they can take orders as well as access the orders. The system will show an error message in case of any discrprencies. 
+
+Function 3: Get Access
+This function allows both the staff as well as the administrator to login and register. It is a text field in which the username and password has to be entered and validated. In case of any errors the system will prompt an error message  denying access to the users.
+
+Function 4: Staff Management
+Here the employee admin can list staff that are working, edit the staff that have to be moved from one department to another and also remove the staff who are no longer working with the organisation. 
+
+Function 5: Store Management
+The employee admin can use this particular feature to list all the stores under them and also beside from that stores can also be listed by staff they have been assigned to, edit the stores and also remove the stores that are no longer part of the organisation
