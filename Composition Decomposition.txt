@@ -1,0 +1,29 @@
+User Interface
+ • RegistrationInformation/Sign up
+ • User and Administrator login
+ • User and Administrator profiles
+
+Inventory
+ • Browse inventory
+ • Search inventory 
+ • Manage inventory
+
+Stores
+ • Manage Orders
+ • Manage Stores 
+ • Edit Stores 
+ • Remove Stores 
+
+Shopping Cart
+ • Add Orders 
+ • Check Orders 
+ • Make Purchases 
+
+Employees
+ • Manage staff 
+ • Check number of hours worked
+ • Check pay according to number of hours worked.
+
+Authentication
+ • Check for correct employee credentials
+ • Check for correct staff credentials
