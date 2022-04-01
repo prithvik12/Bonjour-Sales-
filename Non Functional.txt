@@ -1,0 +1,40 @@
+Quality Attributes of a software system 
+determine how the system performs. They 
+define how well should a system perform any 
+particular action and also determine the 
+externally visible properties of a system. 
+They might seem subtle but they are as 
+important as the functional requirements of the  software system.
+
+The non functional requirements of the software system given in the problem statement is as given below.
+
+Reliability- Users should be able to access the 
+application at almost all times since there are employees working almost everytime and stores can be added at any time an employee 
+
+Scalability- The software must be able to scale to accomodate more stores and more employees. 
+
+
+Availability- The Staff as well as the admin must be able to use the software at all times possible.
+
+Maintainability- If the distribution system software goes down it should be brought back up as soon as possible so that features like attendance management can be used.
+
+Manageability- When updating the order status and the store status the entire application should be up to use the other features.
+
+Recoverability- If any major mishap happens 
+on the system it should be up and running in 
+within a day at the most.
+
+Interoperability- The web application must be 
+using layered architecture.
+
+Data Integrity- The software must maintain 
+data integrity by keeping backups of all 
+updates to the database for every record 
+transaction.
+
+Capacity- The software must be able to 
+accommodate at least as many users as there 
+are employees and also as many as stores that are under their supervision 
+
+Usability- The web application must be easy to 
+use and navigate for all the users
